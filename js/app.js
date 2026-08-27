@@ -2,31 +2,31 @@
    MOBILE MENU
 ===================================================== */
 
-function toggleMenu() {
+// function toggleMenu() {
 
-    const nav = document.querySelector(".nav nav");
+//     const nav = document.querySelector(".nav nav");
 
-    if (!nav) return;
+//     if (!nav) return;
 
-    if (nav.style.display === "flex") {
+//     if (nav.style.display === "flex") {
 
-        nav.style.display = "none";
+//         nav.style.display = "none";
 
-    } else {
+//     } else {
 
-        nav.style.display = "flex";
+//         nav.style.display = "flex";
 
-        nav.style.flexDirection = "column";
-        nav.style.position = "absolute";
-        nav.style.top = "75px";
-        nav.style.left = "0";
-        nav.style.width = "100%";
-        nav.style.padding = "20px";
+//         nav.style.flexDirection = "column";
+//         nav.style.position = "absolute";
+//         nav.style.top = "75px";
+//         nav.style.left = "0";
+//         nav.style.width = "100%";
+//         nav.style.padding = "20px";
 
-        nav.style.background = "#101015";
-        nav.style.borderBottom = "1px solid #292932";
-    }
-}
+//         nav.style.background = "#101015";
+//         nav.style.borderBottom = "1px solid #292932";
+//     }
+// }
 
 
 /* =====================================================

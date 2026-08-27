@@ -29,7 +29,7 @@ const profiles = {
       "images/profile1/aanayana_07.jpeg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
 
   /* ================= PROFILE 2 ================= */
@@ -50,7 +50,7 @@ const profiles = {
       "images/profile2/profile2_pic_05.jpeg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
 
   /* ================= PROFILE 3 ================= */
@@ -71,7 +71,7 @@ const profiles = {
       "images/profile3/image_05.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 4 ================= */
 
@@ -91,7 +91,7 @@ const profiles = {
       "images/profile4/image_05.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 5 ================= */
 
@@ -111,7 +111,7 @@ const profiles = {
       "images/profile5/image_05.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 6 ================= */
   6: {
@@ -129,7 +129,7 @@ const profiles = {
       "images/profile6/image_04.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 7 ================= */
   7: {
@@ -147,7 +147,7 @@ const profiles = {
       "images/profile7/image_04.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 8 ================= */
   8: {
@@ -165,7 +165,7 @@ const profiles = {
       "images/profile8/image_04.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 9================= */
   9: {
@@ -184,7 +184,7 @@ const profiles = {
       "images/profile9/image_(81).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 10 ================= */
   10: {
@@ -202,7 +202,7 @@ const profiles = {
       "images/profile10/image_04.jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 11 ================= */
   11: {
@@ -220,7 +220,7 @@ const profiles = {
       "images/profile11/image_(47).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 12 ================= */
   12: {
@@ -238,7 +238,7 @@ const profiles = {
       "images/profile12/image_(51).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 13 ================= */
   13: {
@@ -257,7 +257,7 @@ const profiles = {
       "images/profile13/image_(56).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 14 ================= */
   14: {
@@ -275,7 +275,7 @@ const profiles = {
       "images/profile14/image_(60).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
   /* ================= PROFILE 15 ================= */
   15: {
@@ -313,6 +313,7 @@ const profiles = {
 
     whatsapp: "https://wa.me/91XXXXXXXXXX",
   },
+  /* ================= PROFILE 17================= */
   17: {
     name: "Heena",
 
@@ -330,6 +331,7 @@ const profiles = {
 
     whatsapp: "https://wa.me/91XXXXXXXXXX",
   },
+  /* ================= PROFILE 18================= */
   18: {
     name: "Bhumika",
 
@@ -345,8 +347,9 @@ const profiles = {
       "images/profile18/image_(77).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 19================= */
   19: {
     name: "Puja",
 
@@ -362,8 +365,9 @@ const profiles = {
       "images/profile19/image_(32).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 20================= */
   20: {
     name: "Nandani",
 
@@ -379,8 +383,9 @@ const profiles = {
       "images/profile20/image_ (9).jpg",
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 21================= */
   21: {
     name: "Varsha",
 
@@ -397,8 +402,9 @@ const profiles = {
       
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 22================= */
   22: {
     name: "Anchal",
 
@@ -416,8 +422,9 @@ const profiles = {
       
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 23================= */
   23: {
     name: "Shivani",
 
@@ -436,8 +443,9 @@ const profiles = {
       
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 24================= */
   24: {
     name: "Kuritka",
 
@@ -453,8 +461,9 @@ const profiles = {
     "images/profile24/image_ (17).jpg",    
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 25================= */
   25: {
     name: "Radhika",
 
@@ -470,8 +479,9 @@ const profiles = {
     "images/profile25/image_ (21).jpg",    
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
+  /* ================= PROFILE 26================= */
   26: {
     name: "Nishu",
 
@@ -488,7 +498,7 @@ const profiles = {
      
     ],
 
-    whatsapp: "https://wa.me/91XXXXXXXXXX",
+    whatsapp: "https://wa.me/9241271123",
   },
 };
 
@@ -568,7 +578,7 @@ function loadProfile() {
   /* ================= BOOKING ================= */
 
   if (bookingButton) {
-    bookingButton.href = "booking.html?id=" + profileId;
+    bookingButton.href = "https://docs.google.com/forms/d/e/1FAIpQLSfVe1q5mJTsLUEpRzniIOCiScTZqVDYCrYS-Hu_U9S0NFKj3A/viewform" + profileId;
   }
 
   /* ================= GALLERY ================= */

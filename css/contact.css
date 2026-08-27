@@ -537,7 +537,7 @@
    MOBILE
 ===================================================== */
 
-@media (max-width: 550px) {
+/* @media (max-width: 550px) {
 
     .footer {
         margin-top: 45px;
@@ -581,13 +581,13 @@
         line-height: 1.6;
     }
 
-}
+} */
 
 /* =====================================================
    SMALL MOBILE
 ===================================================== */
 
-@media (max-width: 400px) {
+/* @media (max-width: 400px) {
 
     .contact-heading h1 {
         font-size: 32px;
@@ -602,4 +602,4 @@
         height: 40px;
     }
 
-}
+} */

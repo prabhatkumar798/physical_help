@@ -480,11 +480,12 @@ body {
     }
 }
 
+
 /* =====================================================
    MOBILE
 ===================================================== */
 
-@media (max-width: 650px) {
+/* @media (max-width: 650px) {
 
     .nav {
         min-height: 64px;
@@ -570,13 +571,134 @@ body {
         grid-template-columns: 1fr;
         gap: 28px;
     }
-}
+} */
 
 /* =====================================================
    SMALL MOBILE
 ===================================================== */
+/* =========================================
+   PROFILE ACTION BUTTONS
+========================================= */
 
-@media (max-width: 400px) {
+.profile-actions {
+    display: flex;
+    gap: 14px;
+    width: 100%;
+    margin-top: 25px;
+}
+
+/* =========================================
+   COMMON BUTTON STYLE
+========================================= */
+
+.profile-actions a {
+    flex: 1;
+
+    min-height: 52px;
+    padding: 14px 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 12px;
+
+    font-size: 16px;
+    font-weight: 700;
+
+    text-decoration: none;
+    text-align: center;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        filter 0.25s ease;
+}
+
+/* =========================================
+   WHATSAPP BUTTON
+========================================= */
+
+.large-whatsapp {
+    background: linear-gradient(135deg, #25D366, #128C7E);
+
+    color: #ffffff;
+
+    box-shadow:
+        0 8px 20px rgba(37, 211, 102, 0.25);
+}
+
+.large-whatsapp:hover {
+    transform: translateY(-3px);
+
+    box-shadow:
+        0 12px 28px rgba(37, 211, 102, 0.40);
+
+    filter: brightness(1.08);
+}
+
+.large-whatsapp:active {
+    transform: scale(0.97);
+}
+
+
+/* =========================================
+   BOOKING BUTTON
+========================================= */
+
+.book-btn {
+    background: linear-gradient(135deg, #ff2d75, #ff0055);
+
+    color: #ffffff;
+
+    box-shadow:
+        0 8px 20px rgba(255, 0, 85, 0.25);
+}
+
+.book-btn:hover {
+    transform: translateY(-3px);
+
+    box-shadow:
+        0 12px 28px rgba(255, 0, 85, 0.45);
+
+    filter: brightness(1.08);
+}
+
+.book-btn:active {
+    transform: scale(0.97);
+}
+
+
+/* =========================================
+   FOCUS
+========================================= */
+
+.profile-actions a:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: 3px;
+}
+
+
+/* =========================================
+   MOBILE RESPONSIVE
+========================================= */
+
+@media (max-width: 600px) {
+
+    .profile-actions {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .profile-actions a {
+        width: 100%;
+        min-height: 52px;
+    }
+
+}
+/* @media (max-width: 400px) {
 
     .container {
         width: 94%;
@@ -597,4 +719,4 @@ body {
     .back-button {
         font-size: 13px;
     }
-}
+} */
