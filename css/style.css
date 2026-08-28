@@ -449,89 +449,6 @@ select {
         rgba(220, 30, 130, 0.42);
 }
 
-
-/* =========================================================
-   SEARCH
-========================================================= */
-
-.search-box {
-    display: flex;
-
-    align-items: center;
-
-    gap: 10px;
-
-    width: min(850px, 100%);
-
-    margin: 0 auto 45px;
-
-    padding: 8px;
-
-    border:
-        1px solid
-        rgba(255, 255, 255, 0.09);
-
-    border-radius: 50px;
-
-    background:
-        rgba(18, 12, 22, 0.92);
-
-    box-shadow:
-        0 15px 50px
-        rgba(0, 0, 0, 0.35);
-}
-
-.search-box input,
-.search-box select {
-    height: 48px;
-
-    border: none;
-
-    outline: none;
-
-    border-radius: 30px;
-
-    background:
-        rgba(255, 255, 255, 0.05);
-
-    color: #ffffff;
-
-    padding: 0 18px;
-
-    transition: 0.3s;
-}
-
-.search-box input {
-    flex: 1;
-}
-
-.search-box select {
-    min-width: 170px;
-
-    cursor: pointer;
-}
-
-.search-box input::placeholder {
-    color: #77727d;
-}
-
-.search-box input:focus,
-.search-box select:focus {
-    background:
-        rgba(255, 255, 255, 0.08);
-
-    box-shadow:
-        0 0 0 1px
-        rgba(255, 43, 137, 0.35);
-}
-
-.search-box select option {
-    background: #151019;
-
-    color: #ffffff;
-}
-
-
 /* =========================================================
    PROFILES SECTION
 ========================================================= */
@@ -792,13 +709,6 @@ select {
     color: #ffffff;
 }
 
-.profile-card-location {
-    margin-bottom: 6px;
-
-    color: #bcaebd;
-
-    font-size: 13px;
-}
 
 .profile-card-status {
     margin-bottom: 15px;

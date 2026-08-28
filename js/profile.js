@@ -14,7 +14,7 @@ const profiles = {
   1: {
     name: "Aahana",
 
-    location: "Thane",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ Aahana 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -37,7 +37,7 @@ const profiles = {
   2: {
     name: "Priya",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ priya 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -58,7 +58,7 @@ const profiles = {
   3: {
     name: "Jyoity",
 
-    location: "Delhi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ Jyoity 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -78,7 +78,7 @@ const profiles = {
   4: {
     name: "Upasana",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ Upasana 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -98,7 +98,7 @@ const profiles = {
   5: {
     name: "Neha",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ Neha💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -117,7 +117,7 @@ const profiles = {
   6: {
     name: "Neha",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ Neha 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -135,7 +135,7 @@ const profiles = {
   7: {
     name: "Sharnam More",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -153,7 +153,7 @@ const profiles = {
   8: {
     name: "Anjali",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -171,7 +171,7 @@ const profiles = {
   9: {
     name: "Kiran",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -190,7 +190,7 @@ const profiles = {
   10: {
     name: "Kiran",
 
-    location: "Ranchi",
+    location:"(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -208,7 +208,7 @@ const profiles = {
   11: {
     name: "Kiran",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -226,7 +226,7 @@ const profiles = {
   12: {
     name: "Suman",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Suman💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -244,7 +244,7 @@ const profiles = {
   13: {
     name: "Rani",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Rani💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -263,7 +263,7 @@ const profiles = {
   14: {
     name: "Roshni",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Roshni💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -281,7 +281,7 @@ const profiles = {
   15: {
     name: "Anushka",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Anushka💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -299,7 +299,7 @@ const profiles = {
   16: {
     name: "Riya",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Riya 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -317,7 +317,7 @@ const profiles = {
   17: {
     name: "Heena",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Heena 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -335,7 +335,7 @@ const profiles = {
   18: {
     name: "Bhumika",
 
-    location: "Delhi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Bhumika 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -353,7 +353,7 @@ const profiles = {
   19: {
     name: "Puja",
 
-    location: "Delhi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Puja 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -371,7 +371,7 @@ const profiles = {
   20: {
     name: "Nandani",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Nandani 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -389,7 +389,7 @@ const profiles = {
   21: {
     name: "Varsha",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Varsha 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -408,7 +408,7 @@ const profiles = {
   22: {
     name: "Anchal",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Anchal 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -428,7 +428,7 @@ const profiles = {
   23: {
     name: "Shivani",
 
-    location: "Mumbai",
+    location:"(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Shivani 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -449,7 +449,7 @@ const profiles = {
   24: {
     name: "Kuritka",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Kuritka 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -467,7 +467,7 @@ const profiles = {
   25: {
     name: "Radhika",
 
-    location: "Mumbai",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Radhika 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -485,7 +485,7 @@ const profiles = {
   26: {
     name: "Nishu",
 
-    location: "Ranchi",
+    location: "(,Enter your location)",
 
     description:
       "☎️ᴄᴀʟʟ ᴍᴇ  Nishu 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
@@ -545,9 +545,16 @@ function loadProfile() {
 
   /* ================= LOCATION ================= */
 
-  if (profileLocation) {
-    profileLocation.textContent = "📍 " + profile.location;
-  }
+/* =====================================================
+   USER CURRENT CITY ON PROFILE PAGE
+===================================================== */
+
+if (infoLocation) {
+
+    infoLocation.textContent =
+        "📍 Location unavailable";
+
+}
 
   /* ================= DESCRIPTION ================= */
 
@@ -571,9 +578,32 @@ function loadProfile() {
 
   /* ================= WHATSAPP ================= */
 
-  if (whatsappButton) {
-    whatsappButton.href = profile.whatsapp;
+if (whatsappButton) {
+
+  const message = [
+    "Hello, I am interested in this profile.",
+    "",
+    "Name: " + profile.name,
+    "Location: " + profile.location,
+  ].join("\n");
+
+
+  if (profile.whatsapp) {
+
+    const separator =
+      profile.whatsapp.includes("?")
+        ? "&"
+        : "?";
+
+    whatsappButton.href =
+      profile.whatsapp +
+      separator +
+      "text=" +
+      encodeURIComponent(message);
+
   }
+
+}
 
   /* ================= BOOKING ================= */
 
