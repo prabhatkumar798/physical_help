@@ -43,11 +43,10 @@ const profiles = {
       "☎️ᴄᴀʟʟ ᴍᴇ priya 💯%ʀᴇᴀʟ ꜱᴇʀᴠɪᴄᴇ 1ʜʀ 𝟭𝟱𝟬𝟬 2ʜʀꜱ 𝟮𝟱𝟬𝟬 ɴɪɢʜᴛ 𝟰𝟬𝟬𝟬 ʜᴏᴍᴇ❣️ Low price hand to hand payment Vip 💯% genuine safe and secure home and hotel delivery CASH PEYMENT 100% GENUINE PROFILE BEST SERVICE AVAILABLE",
 
     images: [
-      "images/profile2/profile2_pic_01.jpeg",
-      "images/profile2/profile2_pic_02.jpeg",
-      "images/profile2/profile2_pic_03.jpeg",
-      "images/profile2/profile2_pic_04.jpeg",
-      "images/profile2/profile2_pic_05.jpeg",
+      "images/profile14/image_(57).jpg",
+      "images/profile14/image_(58).jpg",
+      "images/profile14/image_(59).jpg",
+      "images/profile14/image_(60).jpg",
     ],
 
     whatsapp: "https://wa.me/9241271123",
